@@ -1,0 +1,16 @@
+{
+  "name": "News",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "0.29.0",
+    "react-native-actionsheet": "^2.0.3",
+    "react-native-gifted-listview": "0.0.15",
+    "react-native-swiper": "^1.4.6",
+    "react-native-tab-navigator": "^0.3.2"
+  }
+}
