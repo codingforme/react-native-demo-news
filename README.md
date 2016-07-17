@@ -1,7 +1,7 @@
 # react-native-demo-news
 一个相对比较完整的React Native 新闻发布类型的示例。应用做得很简单，但大多React Native的组件都有用到，今天做一个分享（由于我电脑是Windows系统，所以只实现了Android部分，没有对iOS做兼容），希望对初学者有用处。
 
-实现界面
+**实现界面**
 
 ![](https://github.com/codingforme/react-native-demo-news/blob/master/screenshots/1.png)
 ![](https://github.com/codingforme/react-native-demo-news/blob/master/screenshots/2.png)
@@ -12,7 +12,7 @@
 PS：页面实现不多，数据也是静态。
 
 
-安装启动程序
+**安装启动程序**
 
 1.下载源码
 
